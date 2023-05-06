@@ -1,0 +1,4 @@
+{
+    "shortener_domain": "sho.rt",
+    "url_map_file": "data/url_map.csv"
+}
